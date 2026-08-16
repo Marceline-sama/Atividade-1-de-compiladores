@@ -1,0 +1,15 @@
+# Arquivos gerados pelo Flex
+lex.yy.c
+
+# Executáveis
+*.exe
+
+# Arquivos objeto
+*.o
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Configurações do VS Code
+.vscode/
